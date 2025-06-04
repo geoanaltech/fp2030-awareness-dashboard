@@ -7,7 +7,7 @@ This repository contains the cleaned dataset, scripts, and Power BI dashboard fo
 
 ✅ R Shiny link (from shinyapps.io): https://fishbassey.shinyapps.io/geoanaltech/
 
-✅ GEOANALTECH LinkedIn 
+✅ GEOANALTECH LinkedIn: https://www.linkedin.com/in/geoanaltech
 
 📁 Project Overview
 The goal of this project is to provide a visual and analytical overview of awareness levels, demographic distribution, and key barriers to accessing family planning services in Nigeria’s North East and South East regions, using the FP2030 dataset.
